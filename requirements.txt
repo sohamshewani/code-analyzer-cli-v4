@@ -1,0 +1,11 @@
+click
+rich
+pytest
+mlflow
+requests
+flask
+coverage
+pytest-cov
+click-log
+python-dotenv
+boto3
